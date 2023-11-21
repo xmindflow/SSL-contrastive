@@ -7,7 +7,7 @@ Welcome to our GitHub repository! Our 3D semi-supervised segmentation approach a
 - November 21, 2023: First release of the code.
 
 ## Quick Overview
-![Diagram of the proposed method]()
+![Diagram of the proposed method](https://github.com/xmindflow/SSL-contrastive/blob/main/images/ssl-contrastive.png)
 
 
 ## Installation
