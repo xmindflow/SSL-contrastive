@@ -20,9 +20,9 @@ This code has been implemented in python language using Pytorch libarary and tes
 * tqdm，h5py
 
 ## Getting Started
-Please download the prepared dataset from the following link and use the dataset path in the training and evalution code. <\br>
-[LA Dataset](https://drive.google.com/drive/folders/1_LObmdkxeERWZrAzXDOhOJ0ikNEm0l_l)
-[Pancreas Dataset](https://drive.google.com/drive/folders/1kQX8z34kF62ZF_1-DqFpIosB4zDThvPz)
+Please download the prepared dataset from the following link and use the dataset path in the training and evalution code.
+* [LA Dataset](https://drive.google.com/drive/folders/1_LObmdkxeERWZrAzXDOhOJ0ikNEm0l_l)
+* [Pancreas Dataset](https://drive.google.com/drive/folders/1kQX8z34kF62ZF_1-DqFpIosB4zDThvPz)
 
 Please change the database path and data partition file in the corresponding code.
 
