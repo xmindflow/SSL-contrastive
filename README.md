@@ -1,4 +1,4 @@
-# [Leveraging Unlabeled Data for 3D Medical Image Segmentation through Self-Supervised Contrastive Learning](xmindflow.com)
+# [Leveraging Unlabeled Data for 3D Medical Image Segmentation through Self-Supervised Contrastive Learning](https://arxiv.org/abs/2311.12617)
 Welcome to our GitHub repository! Our 3D semi-supervised segmentation approach addresses key challenges by leveraging two specialized subnetworks, correcting errors and enhancing contextual information. We introduce targeted verification training and self-supervised contrastive learning to improve predictions. Our model demonstrates superior performance on clinical MRI and CT scans for organ segmentation, outperforming state-of-the-art methods. Dive into our code for advanced 3D segmentation capabilities!
 
 #### Please consider starring us, if you found it useful. Thanks
@@ -37,7 +37,7 @@ To evaluate the network on the LA dataset, run `pyhon test_LA`. For the Pancreas
 If you find this project useful, please consider citing:
 
 ```bibtex
-@InProceedings{MCF,
+@InProceedings{ssl-karimi,
     author    = {},
     title     = {Leveraging Unlabeled Data for 3D Medical Image Segmentation through Self-Supervised Contrastive Learning},
     booktitle = {ISBI 2024},
